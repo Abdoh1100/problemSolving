@@ -1,4 +1,4 @@
-package com.mvc.LeetCode;
+package com.mvc.LeetCode.Easy;
 
 public class GcdOfStrings {
 
